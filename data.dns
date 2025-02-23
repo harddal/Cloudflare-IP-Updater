@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<CLOUDFLARE_API_TOKEN >***************************************</CLOUDFLARE_API_TOKEN>
+	<CLOUDFLARE_DNS_TOKEN >***************************************</CLOUDFLARE_DNS_TOKEN>
+	<CLOUDFLARE_DNS_RECORD>https://api.cloudflare.com/client/v4/zones/**********************/dns_records/</CLOUDFLARE_DNS_RECORD>
+	
+	<entries>
+		<item prefix="www" type="A" proxied="true" ttl="1" comment="" token="***********************"/>
+		<item prefix="services" type="A" proxied="true"  ttl="1" comment="" token="**********************"/>
+		<item prefix="forum" type="A" proxied="true"  ttl="1" comment="" token="**********************"/>
+	</entries>
+</data>
+
